@@ -1,4 +1,3 @@
-# !!!!! LivePreview created only for easy viewing of pages, you can remove it by setting the variable LivePreview false (the path to the file - src/components/Page/index.js => const livePreview = false)
 
 # Getting Started with Create React App
 
